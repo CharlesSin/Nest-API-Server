@@ -71,3 +71,19 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
   Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+# Firebase Firestore
+(link)[https://ricardoromanj.com/posts/firestore-with-nestjs]
+
+# Firebase Auth Example 
+(link)[https://medium.com/nerd-for-tech/nestjs-firebase-auth-secured-nestjs-resource-server-9649bcebd0de]
+(link2)[https://blog.logrocket.com/using-firebase-authentication-in-nestjs-apps/]
+
+# How to integrate Firebase in NestJS
+(link)[https://dev.to/aswinsanakan/how-to-integrate-firebase-in-nestjs-5gl9]
+
+# Auth jwt & passport with mongodb
+(link)[https://blog.bitsrc.io/jwt-authentication-with-nestjs-4f587c5dd649]
+
+# Nest js Push notification How to Send Push Notifications with Firebase Cloud Messaging in NestJS
+(link)[https://medium.com/@matthew.bajorek/how-to-send-push-notifications-with-firebase-cloud-messaging-in-nestjs-709ecc4be756]
