@@ -15,8 +15,10 @@ import { AppService } from './app.service';
     ConfigModule.forRoot(),
     ServeStaticModule.forRoot({
       rootPath: join(__dirname, '..', 'client'),
+      serveStaticOptions: {
+        index: false,
+      },
     }),
-    exclude: ['/api*'],
   ],
   controllers: [AppController],
   providers: [AppService],
