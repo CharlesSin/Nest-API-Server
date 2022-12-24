@@ -14,7 +14,8 @@ import { AppService } from './app.service';
   imports: [
     ConfigModule.forRoot(),
     ServeStaticModule.forRoot({
-      rootPath: join(__dirname, '..', 'client'),
+      serveRoot: '/public',
+      rootPath: join(__dirname, '..', 'public'),
       serveStaticOptions: {
         index: false,
       },
